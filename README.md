@@ -24,4 +24,8 @@ For the teams who want to master building the top iPhone and Android apps, this 
 * Date last updated
 * Support website
 
+## To use:
+1. Open the Jupyter notebook in this Git repo
+2. Enter the search term in the **search bar**, for which iPhone and Android apps you want to see
+3. Run each cell, including the last one to generate an interactive chart and export the performance metrics as a CSV or Excel file
 
