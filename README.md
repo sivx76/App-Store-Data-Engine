@@ -10,3 +10,18 @@ For advanced learning, you can pay to request a searchable dashboard of all of y
 
 For the teams who want to master building the top iPhone and Android apps, this kind of detailed learning and analytics are invaluable.
 
+
+## Data collected:
+* App name
+* Organization
+* Description
+* App store rating and distribution
+* NPS score
+* Subtitle
+* Version number
+* App size
+* New version release notes
+* Date last updated
+* Support website
+
+
